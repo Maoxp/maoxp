@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 I'm a Backend softwore Engineer working in China.
+🌱 I’m currently learning java language and Multi process related knowledge。
+⚙️  I use .sh, .php, .js ... language everyday.
+💬 Ask me about php, java language 
+😄   Learning all about Open Source
+
 <!--
 **Maoxp/maoxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
